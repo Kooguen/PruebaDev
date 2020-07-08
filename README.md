@@ -9,7 +9,7 @@ Se debe clonar este repositorio y cumplir con las siguientes actividades.
 
 3. crear al menos un servicio que interactue con la base de datos
 
-4. generar las funciones crud con cada una de las clases creadas
+4. generar las funciones CRUD con cada una de las clases creadas
 
 5. generar las rutas de interaccion.
 
