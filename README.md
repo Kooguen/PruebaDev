@@ -18,7 +18,7 @@ Se debe clonar este repositorio y cumplir con las siguientes actividades.
 Nota:
 * el tiempo máximo son 5 horas para la entrega (Hora estimada máxima: 7:00 p.m.)!
 * Para la prueba de hoy deben tener nodejs en su última versión:
-https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi
+https://nodejs.org/dist/v15.3.0/node-v15.3.0-win-x64.zip
 
 * Tener angular cli instalado de forma global:
 npm i -g @angular/cli
