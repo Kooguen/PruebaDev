@@ -15,7 +15,7 @@ Se debe clonar este repositorio y cumplir con las siguientes actividades.
 
 (Opcional) - Implementar el store (@ngrx) con interfaz optimista para la gestión de datos.
 
-Nota: el tiempo máximo son 5 horas para la entrega (Hora estimada máxima: 2:00 p.m.)!
+Nota: el tiempo máximo son 5 horas para la entrega (Hora estimada máxima: 12:00 p.m.)!
 
 Buena suerte!
 
