@@ -18,7 +18,7 @@ Se debe clonar este repositorio y cumplir con las siguientes actividades.
 (Opcional) - Implementar el store (@ngrx) con interfaz optimista para la gestión de datos.
 
 Nota:
-* el tiempo máximo son 5 horas para la entrega (Hora estimada máxima: 7:00 p.m.)!
+* el tiempo máximo son 5 horas para la entrega (Hora estimada máxima: 1:00 p.m.)!
 * Para la prueba de hoy deben tener nodejs en su última versión: 
   * WIN:
   https://nodejs.org/dist/v15.4.0/node-v15.4.0-x64.msi 
